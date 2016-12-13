@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Stephen's Laravel page
                 </div>
 
                 <div class="links">
