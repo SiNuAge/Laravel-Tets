@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Stephen's Laravel page
+                    Corpuscular Crepuscular
                 </div>
 
                 <div class="links">
